@@ -14,14 +14,14 @@
 📞 +7 927-764-66-16
 [<img align="left" alt="Nikolay-Karpov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
  
-### Навыки:
+### Languages and Tools:
 - SQL  
 - Jupiter Notebook  
 - Python (pandas, numpy, matplotlib, seaborn, scipy, torch, cv2), 
 - BI (Tableau, Power BI, Datalens)
 - Excel(макросы, ВПР)
  
-### [Мое портфолио](https://github.com/Nikolay-Karpov/Portfolio)
+### [My portfolio](https://github.com/Nikolay-Karpov/Portfolio)
 
 <!--
 ⚡ <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nikolay-Karpov&show_icons=true&hide_border=true" />
